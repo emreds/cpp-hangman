@@ -31,5 +31,6 @@
 *.out
 *.app
 
-# Debug 
-cmake-build-debug
+# Cliom generated files
+cmake-build-*
+.idea
